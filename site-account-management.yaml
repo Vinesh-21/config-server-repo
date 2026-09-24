@@ -2,7 +2,7 @@ server:
   port: 8091
   
 mongodb:
-  uri: mongodb://localhost:27018
+  uri: mongodb://localhost:27017
 
   databases:
     metadata: metadata
