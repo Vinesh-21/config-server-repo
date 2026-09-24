@@ -1,0 +1,9 @@
+server:
+  port: 8091
+  
+mongodb:
+  uri: mongodb://localhost:27018
+
+  databases:
+    metadata: metadata
+    aggregation: aggregation
